@@ -64,6 +64,16 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]", server: 104.25.169.82, port: 2096, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]", server: 104.25.169.82, port: 2053, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]", server: 104.25.169.82, port: 2087, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]", server: 104.18.33.62, port: 2096, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]", server: 104.18.33.62, port: 8443, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]", server: 104.18.33.62, port: 2087, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]", server: 8.39.125.83, port: 2096, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]", server: 104.18.33.62, port: 2083, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]", server: 104.18.33.62, port: 2053, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]", server: 8.39.125.83, port: 2053, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]", server: 8.39.125.83, port: 2087, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]", server: 8.39.125.83, port: 2083, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: pro.greennovalove.kdns.fr, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: pro.greennovalove.kdns.fr}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]", server: 8.39.125.83, port: 8443, type: vless, uuid: 583b03b4-3fbe-42b8-8946-08c75f98332a, tls: true, skip-cert-verify: false, servername: crystal-panel-turbo-9df09d.nikolay441.workers.dev, client-fingerprint: randomized, network: ws, ws-opts: {path: /, headers: {Host: crystal-panel-turbo-9df09d.nikolay441.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -107,6 +117,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -146,6 +166,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -184,6 +214,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -223,6 +263,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -281,6 +331,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -325,6 +385,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.25.169.82:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.33.62:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.83:8443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
